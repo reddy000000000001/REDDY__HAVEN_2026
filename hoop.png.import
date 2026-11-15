@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://caxo8jcysawhn"
-path="res://.godot/imported/left background.png-e58311efb30d1eafd2b66077e05acbd1.ctex"
+uid="uid://bwc4j11f1uhw6"
+path="res://.godot/imported/hoop.png-cd39e20136abc221997762af948e73a1.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://left background.png"
-dest_files=["res://.godot/imported/left background.png-e58311efb30d1eafd2b66077e05acbd1.ctex"]
+source_file="res://hoop.png"
+dest_files=["res://.godot/imported/hoop.png-cd39e20136abc221997762af948e73a1.ctex"]
 
 [params]
 

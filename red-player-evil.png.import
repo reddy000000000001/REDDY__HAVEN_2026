@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://t71vfpt87hdk"
-path="res://.godot/imported/Screenshot 2026-11-15 at 10-44-52 courtdesign_3600_20230915.jpg (JPEG Image 3600 × 1893 pixels) — Scaled (33%).png-1fe6b20000ea01934d08a580935ebc02.ctex"
+uid="uid://bfh0fbrath80g"
+path="res://.godot/imported/red-player-evil.png-a6b780412ddce16c58b2aa2dfef292a2.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Screenshot 2026-11-15 at 10-44-52 courtdesign_3600_20230915.jpg (JPEG Image 3600 × 1893 pixels) — Scaled (33%).png"
-dest_files=["res://.godot/imported/Screenshot 2026-11-15 at 10-44-52 courtdesign_3600_20230915.jpg (JPEG Image 3600 × 1893 pixels) — Scaled (33%).png-1fe6b20000ea01934d08a580935ebc02.ctex"]
+source_file="res://red-player-evil.png"
+dest_files=["res://.godot/imported/red-player-evil.png-a6b780412ddce16c58b2aa2dfef292a2.ctex"]
 
 [params]
 
